@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(../);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.form-container{
+    width: 40%;
+  
+}
+.contenedor{
+    padding:5px;
+}
+.formulario{
+    background: white;
+}
+input[type="text"],
+input[type="text"],
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="correo"],
+input[type="password"]{
+    font-size: 20px;
+    width: 100%;
+    
+   
+}
+.input_contenedor{
+    margin-bottom: -15px;
+}
